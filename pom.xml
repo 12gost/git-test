@@ -8,6 +8,7 @@
 	<name>Web Application</name>
 	<description>Java Webapp</description>
 	<dependencies>
+    <add>
       <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
